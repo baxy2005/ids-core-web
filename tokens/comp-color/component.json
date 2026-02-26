@@ -1658,19 +1658,19 @@
               "bg": {
                 "primary": {
                   "default": {
-                    "value": "{smc.reference.container.color.bg.primary.default}",
+                    "value": "{smc.reference.container.color.bg.success.default}",
                     "type": "color"
                   },
                   "hovered": {
-                    "value": "{smc.reference.container.color.bg.primary.darker-20}",
+                    "value": "{smc.reference.container.color.bg.success.darker-20}",
                     "type": "color"
                   },
                   "focused": {
-                    "value": "{smc.reference.container.color.bg.primary.default}",
+                    "value": "{smc.reference.container.color.bg.success.default}",
                     "type": "color"
                   },
                   "pressed": {
-                    "value": "{smc.reference.container.color.bg.primary.darker-30}",
+                    "value": "{smc.reference.container.color.bg.success.darker-30}",
                     "type": "color"
                   },
                   "disabled": {
